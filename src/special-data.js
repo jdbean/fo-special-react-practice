@@ -28,3 +28,5 @@ const specialData = [
       points: 2
   },
 ]
+
+export default specialData
